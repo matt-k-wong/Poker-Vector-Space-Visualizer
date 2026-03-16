@@ -3,7 +3,7 @@
 > **Core Philosophy: Analysis over Aesthetics**  
 > This is a Strategic Laboratory, not a commercial game. The UI is built for data density and decision-auditing. The objective is to visualize the geometry of your strategy, not to provide a high-fidelity gaming experience.
 
-![Poker Vector Space Visualizer Screenshot](poker_matrix.html)
+![Poker Vector Space Visualizer Screenshot](Vector_poker.png)
 
 ## 🎯 Ideal User
 
@@ -125,7 +125,6 @@ Inspired by the cyberpunk aesthetic and the desire to visualize poker strategy i
 Built with:
 - [Streamlit](https://streamlit.io)
 - [Pokerkit](https://pokerkit.readthedocs.io)
-- [Treys](https://github.com/treys/treys)
 - [UMAP](https://github.com/lmcinnes/umap)
 - [Plotly](https://plotly.com/python)
 - [NumPy](https://numpy.org)
